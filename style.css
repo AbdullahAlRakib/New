@@ -1,0 +1,233 @@
+navbar {
+    margin:0 px;
+    padding:0 px;
+    text-align:right;
+}
+svg {
+  width="6rem";
+  height="6rem";
+}
+h1{
+  color:red;
+  text-align:right;
+
+}
+.shadow {
+  -webkit-box-shadow: 0 6px 4px -4px black;
+  -moz-box-shadow: 0 6px 4px -4px black;
+  box-shadow: 0 6px 4px -4px black;
+}
+
+.navbar-nav .active > .nav-link {
+    color: #f029cf !important;
+}
+
+.navbar-nav > li {
+	font-weight: bold;
+    margin-right: 50px
+}
+
+.box {
+    color: #fff;
+	width: 20rem;
+	height: 14rem;
+	margin: 0 50px;
+}
+
+.box-title {
+	font-weight: bold;
+	font-size: 30px;
+	margin-top: 10px;
+}
+
+.box-content {
+	font-size: 20px;
+}
+
+.new-connection {
+	margin-left: 15px;
+	padding-top: 5px;
+	font-weight: bold;
+}
+
+.new-connection-card {
+	background-color: lightgray;
+}
+
+.new-connection-card:hover {
+	background-color: #f029cf;
+}
+
+
+.card-deck{
+	margin-bottom:3.2rem;
+	display: flex;
+  	flex-wrap: nowrap;
+          }
+
+.new-connection-title {
+	text-align: center;
+	color: #f029cf;
+	padding-top: 20px;
+	font-weight: bold;
+}
+
+
+#silver-package-card {
+	border-radius: 15px; 
+	background-color: #f7f7f7; 
+	border-left-width: 10px; 
+	border-left-color: #08d9d9;
+}
+#gold-package-card {
+	border-radius: 15px; 
+	background-color: #f7f7f7; 
+	border-left-width: 10px; 
+	border-left-color: #ff33cc;
+}
+
+#gold-package-card1 {
+	border-radius: 15px; 
+	background-color: #f7f7f7; 
+	border-left-width: 10px; 
+	border-left-color: #2206ea;
+}
+
+#silver-package-card1 {
+	border-radius: 15px; 
+	background-color: #f7f7f7; 
+	border-left-width: 10px; 
+	border-left-color: #f4a206;
+}
+#gold-package-card2 {
+	border-radius: 15px; 
+	background-color: #f7f7f7; 
+	border-left-width: 10px; 
+	border-left-color: #ac380b;
+}
+
+#gold-package-card3 {
+	border-radius: 15px; 
+	background-color: #f7f7f7; 
+	border-left-width: 10px; 
+	border-left-color: #0a9d2f;
+}
+
+
+
+.btn1{
+  font-family: Raleway-SemiBold;
+  font-size: 13px;
+  color: white;
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 2px solid rgba(91, 192, 222, 0.75);
+  border-radius: 40px;
+  background: rgba(91, 192, 222, 0.75);
+  transition: all 0.3s ease 0s;
+  width: 120px;
+}
+
+.btn1:hover {
+  /*color: #FFF;*/
+  background: rgba(91, 192, 222, 0.75);
+  border: 2px solid rgba(91, 192, 222, 0.75);
+}
+.button2 {
+  font-family: Raleway-SemiBold;
+  font-size: 13px;
+  color: white;
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 2px solid rgba(236, 16, 129, 0.75);
+  border-radius: 40px;
+  background:rgba(236, 16, 129, 0.75);
+  transition: all 0.3s ease 0s;
+  width: 120px;
+}
+
+.button2:hover {
+  /*color: #FFF;*/
+  background: rgba(236, 16, 129, 0.75);
+  border: 2px solid rgba(236, 16, 129, 0.75);
+}
+.button3 {
+  font-family: Raleway-SemiBold;
+  font-size: 13px;
+  color: white;
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 2px solid rgba(10, 14, 236, 0.75);
+  border-radius: 40px;
+  background:rgba(10, 14, 236, 0.75);
+  transition: all 0.3s ease 0s;
+  width: 120px;
+}
+
+.button3:hover {
+  /*color: #FFF;*/
+  background: rgba(10, 14, 236, 0.75);
+  border: 2px solid rgba(10, 14, 236, 0.75);
+}
+.button4 {
+  font-family: Raleway-SemiBold;
+  font-size: 13px;
+  color: white;
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 2px solid rgba(236, 129, 16, 0.75);
+  border-radius: 40px;
+  background:rgba(236, 129, 16, 0.75);
+  transition: all 0.3s ease 0s;
+  width: 120px;
+
+}
+
+.button4:hover {
+  /*color: #FFF;*/
+  background: rgba(236, 129, 16, 0.75);
+  border: 2px solid rgba(236, 129, 16, 0.75);
+}
+.button5 {
+  font-family: Raleway-SemiBold;
+  font-size: 13px;
+  color: white;
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 2px solid rgba(123, 33, 6, 0.75);
+  border-radius: 40px;
+  background:rgba(123, 33, 6, 0.75);
+  transition: all 0.3s ease 0s;
+  width: 120px;
+}
+
+.button5:hover {
+  /*color: #FFF;*/
+  background: rgba(123, 33, 6, 0.75);
+  border: 2px solid rgba(123, 33, 6, 0.75);
+}
+.button6 {
+  font-family: Raleway-SemiBold;
+  font-size: 13px;
+  color: white;
+  letter-spacing: 1px;
+  line-height: 15px;
+  border: 2px solid rgba(38, 128, 14, 0.75);
+  border-radius: 40px;
+  background:rgba(38, 128, 14, 0.75);
+  transition: all 0.3s ease 0s;
+  width: 120px;
+}
+
+.button6:hover {
+  /*color: #FFF;*/
+  background: rgba(38, 128, 14, 0.75);
+  border: 2px solid rgba(38, 128, 14, 0.75);
+}
+.main-form {
+  padding-top: 114px;
+  padding-bottom: 20px;
+}
+.services-section {
+  padding-top: 50px;
+}

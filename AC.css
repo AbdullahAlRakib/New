@@ -1,0 +1,27 @@
+ navbar {
+    margin:0 px;
+    padding:0 px;
+    text-align:right;
+}
+			.navbar-nav > li {
+				font-weight: bold;
+			    margin-right: 50px
+			}
+				h4
+			{
+				margin-top: 30px;
+				margin-left: 300px;
+				color: #FF1493;
+			}
+			
+		
+			.button1{
+				text-align: center;
+
+				margin-bottom: 20px;
+
+				padding: 5px 300px;
+				background-color: #FF1493;
+				color: #FFFFFF;
+
+			}
